@@ -1,2 +1,5 @@
-# SecureAPI_JWT
-Projeto de treino para prática de autenticação e autorização em APIs .NET com JWT, roles, claims e proteção de endpoints.
+## Em andamento, Próximos passos:
+- Implementar autenticação completa com JWT
+- Criar roles e claims para controle de acesso
+- Adicionar testes unitários
+- Melhorar documentação dos endpoints
